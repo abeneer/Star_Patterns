@@ -1,0 +1,4 @@
+# cmd to run cpp file
+ clang++ -std=c++17 C++/Remaining_patterns.cpp -o C++/Remaining_patterns
+
+ C++/Remaining_patterns     
